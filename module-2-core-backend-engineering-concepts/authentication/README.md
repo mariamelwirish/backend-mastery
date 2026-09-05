@@ -1,0 +1,1 @@
+My notes for this topic is [here](https://mariamelwirish.notion.site/Authentication-3d072029a06f8036aaf5f9e168827328).

@@ -1,0 +1,1 @@
+Learning outcome from studying [Backend Mastery](https://backend-course.abdullahhatem.com/programs/backend-mastery).
