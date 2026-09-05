@@ -1,0 +1,1 @@
+My notes for this topic is [here](https://mariamelwirish.notion.site/Simple-Node-JS-Server-3cb72029a06f80b0a017c7d18127debb).

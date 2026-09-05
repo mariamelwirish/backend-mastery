@@ -1,0 +1,1 @@
+My notes for this module is [here](https://mariamelwirish.notion.site/backend-mastery).

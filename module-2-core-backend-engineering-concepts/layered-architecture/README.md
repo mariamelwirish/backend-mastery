@@ -1,0 +1,1 @@
+My notes for this topic is [here](https://mariamelwirish.notion.site/NodeJS-3cc72029a06f80efa5b2d9538c352382).
